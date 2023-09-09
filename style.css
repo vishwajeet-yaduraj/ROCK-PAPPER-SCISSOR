@@ -1,5 +1,6 @@
 body{
-    background-color: aquamarine;
+    background-color: burlywood;
+    width:100%;
 }
 h1{
     text-align: center;
@@ -11,4 +12,10 @@ h1{
     gap: 100px;
     align-items: center;
     justify-content: center;
+}
+button{
+    background-color: cornflowerblue;
+    height: 25px;
+    width: 100px;
+    border-radius: 50%;
 }
